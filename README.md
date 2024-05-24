@@ -1,4 +1,4 @@
-# q1-2
+# q1
 pattern1 = "*+" # Define the first pattern
 pattern2 = "+*" # Define the second pattern
 for i in range(5):  # Loop through five times for the five rows of the pattern     
