@@ -1,5 +1,5 @@
 number = int(input(""))#隊伍總數
-res = 0#計數
+res = 0#組數歸零
 
 for i in range(number):#重複number次
     member = int(input(""))#輸入各隊人數
